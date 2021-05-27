@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @singhrahulism
-- 👀 I’m interested in Linux and DSA
+- 👀 I’m interested in Linux, DSA and Mobile App Development
 - 🌱 I’m currently learning anything i can :)
 - 📫 To reach me, dm at twitter.com/singhrahulism
 
